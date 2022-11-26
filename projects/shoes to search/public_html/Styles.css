@@ -1,0 +1,58 @@
+    .p{font-family: "Segoe UI", sans-serif;
+       color: black;
+       font-size: 20px;
+    
+    }
+    
+    html {
+        height:100%;
+        }
+            
+    .snkr{border-width: 5px;
+          border-color: #181a1c;
+          background-color: whitesmoke;
+          border-style: solid;
+          border-radius: 25px;
+          height : 258px;
+          width: 258px;   
+    }
+    
+    .snkr:hover{border-width: 7px;
+          background-color: whitesmoke;
+          opacity: 30%;
+          border-color: #181a1c;
+          border-style: solid;
+          border-radius: 25px;
+          height : 258px;
+          width: 258px
+    }    
+    
+    .row{
+        display: inline-block;  
+        max-width: 20%;
+        margin: 0 2.5%;
+    }
+    
+    .heading{
+        text-align : center;
+        font-family: 'Carter One', cursive;
+        color: black;
+        font-size: 75px;
+    }
+    
+    .page{
+        background-image: linear-gradient(95deg, #f1f1f1 5%, #009999 90%);
+        background-repeat: no-repeat;
+        
+    }
+    
+    .sneakerbutton{
+        border-radius: 25px;
+        position: inherit;
+      
+        
+        
+    }
+    
+    
+
